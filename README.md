@@ -3,15 +3,15 @@
 🍽️ ChristoffelMenu — Final PoE
 Introduction
 
-ChristoffelMenu is a React Native (Expo) application built for Chef Christoffel, a private chef who offers personalized dining experiences. The app allows him to manage his digital menu by adding, removing, and editing dishes while clients can view and filter the available menu by course.
+ChristoffelMenu is a React Native (Expo) application built for Chef Christoffel, a private chef who offers personalized dining experiences. The app allows him to manage his digital menu by adding, removing and editing dishes while clients can view and filter the available menu by course.
 
-This project was developed as part of the Mobile Application Development PoE and showcases the use of TypeScript, React Native components, navigation, and dynamic data handling to create a seamless user experience across Android and iOS devices.
+This project was developed as part of the Mobile Application Development PoE and showcases the use of TypeScript, React Native components, navigation and dynamic data handling to create a seamless user experience across Android and iOS devices.
 
 🌟 Features Implemented
 
 View Full Menu: Home screen displays all current dishes.
 
-Add / Remove Menu Items: Chef can add new dishes with a name, description, course, and price, and remove old ones.
+Add / Remove Menu Items: Chef can add new dishes with a name, description, course and price and remove old ones.
 
 Filter by Course: Guests can filter the menu to view only Starters, Mains, Desserts, or Beverages.
 
@@ -19,9 +19,9 @@ Average Price Display: Home screen shows the average price per course.
 
 Dynamic Data Handling: All items are stored in arrays using TypeScript variables.
 
-Navigation: Smooth transitions between Home, Add Item, and Filter Screens using React Navigation.
+Navigation: Smooth transitions between Home, Add Item and Filter Screens using React Navigation.
 
-Reusable Functions: Functions organize code logic for adding, removing, and calculating averages.
+Reusable Functions: Functions organize code logic for adding, removing and calculating averages.
 
 Loops Used: for, while, and for in loops implemented for calculations and data handling.
 
