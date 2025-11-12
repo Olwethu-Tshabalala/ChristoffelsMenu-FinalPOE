@@ -77,7 +77,7 @@ Scan the QR code on your phone using the Expo Go app.
 🎥 Demonstration Video
 
 📺 Watch the app in action here:
-YouTube Demo (Unlisted)
+YouTube Demo https://youtu.be/FV-qy5ah04w 
 
 👨‍🍳 Developed by
 
